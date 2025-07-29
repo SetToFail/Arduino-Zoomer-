@@ -13,6 +13,7 @@
 ### Скриншот схемы:
 
 
+<img width="3000" height="1728" alt="circuit_image" src="https://github.com/user-attachments/assets/4087ac9a-8712-46a7-9723-db72be526f44" />
 
 
 
